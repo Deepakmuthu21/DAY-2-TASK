@@ -9,4 +9,3 @@ Content:
 1)Introduction to Document and Window Objects
 2)Differences in Scope and Hierarchy
 3)Manipulation vs. Interaction
-4)Practical Applications and Examples
