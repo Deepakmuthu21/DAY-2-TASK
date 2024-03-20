@@ -1,0 +1,35 @@
+                                                Differetnt Between Document and windows object
+
+Document object :-
+    The Document Object represents the HTML document loaded in the browser window. 
+    It serves as an interface between JavaScript and the content of the web page, allowing developers to access and 
+    manipulate various elements such as text, images, forms, and more. 
+    Essentially, the Document Object provides a structured representation of the web page's content, enabling developers to interact with it programmatically.
+
+Window Object:
+
+    Unlike the Document Object, which represents the content of a web page, the Window Object represents the browser window or tab in which the web page is loaded. 
+    It provides a global environment for executing JavaScript code and interacts with the browser environment. 
+    Here are some key characteristics of the Window Object:
+
+Differences:
+
+    While both the Document and Window Objects are essential components of web development, they serve distinct purposes and offer different functionalities:
+
+    Scope: 
+    
+        The Document Object operates within the context of a specific HTML document, focusing on manipulating its structure and content. 
+        In contrast, the Window Object operates at the browser level, providing access to browser-specific features and managing interactions 
+        between multiple documents or tabs.
+
+    Hierarchy: 
+        
+        The Document Object represents the structure of an HTML document, organizing elements in a hierarchical manner. 
+        On the other hand, the Window Object does not have a hierarchical structure; 
+        it encapsulates the browser window or tab and provides a global environment for executing JavaScript code.
+
+    Manipulation vs. Interaction:
+        
+        While the Document Object primarily focuses on manipulating the content and structure of a webpage, 
+        the Window Object is more concerned with interacting with the browser environment, managing browser windows and tabs, 
+        and controlling the overall behavior of the web application.
